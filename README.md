@@ -40,7 +40,7 @@ Get started with **Galactic Giggles** in just a few steps:
 
 3. Run the game:  
    ```bash
-   python galactic_giggles.py
+   galactic_giggles.py
    ```
 
 4. Follow the prompts, enter your words, and enjoy the story! 🎭
